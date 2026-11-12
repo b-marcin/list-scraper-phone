@@ -1,5 +1,5 @@
-const cacheName = 'list-scraper-phone-4807a16dfaefd3ab62b1d0552892e12398009d3fdee0b0d5b7552237e8714ce9';
-const assets = ["./index.html","./manifest.webmanifest","./apple-touch-icon.png","./assets/index-Bmnu2518.css","./assets/index-Q6Htl7UL.js","./assets/manifest-D8jFs7p8.webmanifest","./assets/xlsx-Bv_pSZNU.js"];
+const cacheName = 'list-scraper-phone-091b1632e9b4d63b3a6f3de7a451f8136060b31abec043649fdb14a572748726';
+const assets = ["./index.html","./manifest.webmanifest","./apple-touch-icon.png","./assets/index-Bmnu2518.css","./assets/index-CkhmABKb.js","./assets/manifest-D8jFs7p8.webmanifest","./assets/xlsx-Bv_pSZNU.js"];
 self.addEventListener('install', (event) => {
   event.waitUntil(
     caches
