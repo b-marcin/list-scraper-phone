@@ -1,8 +1,0 @@
-{
-  "name": "Lounge on your phone",
-  "short_name": "Lounge",
-  "start_url": "./",
-  "scope": "./",
-  "display": "standalone",
-  "icons": [{ "src": "./apple-touch-icon.png", "sizes": "128x128", "type": "image/png" }]
-}
